@@ -1,6 +1,3 @@
-Sure, here's the Gemfile with repeated gems removed:
-
-```ruby
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
